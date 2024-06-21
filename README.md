@@ -1,6 +1,8 @@
 # HR-Dashboard-MySQL-PowerBI
 
-[HR EmployeeReport.pdf](https://github.com/user-attachments/files/15924632/HR.EmployeeReport.pdf)
+![Screenshot](https://github.com/SiddhuShkya/HR-Dashboard-MySQL-PowerBI/assets/104829964/b1fbbebb-1afe-4e82-bc6d-21b7133b4329)
+
+**Download full pdf here** : [HR EmployeeReport.pdf](https://github.com/user-attachments/files/15924632/HR.EmployeeReport.pdf)
 
 # Data Used
 
@@ -11,6 +13,7 @@ Data Visualisation - PowerBI
 # Questions
 
 1. What is the gender breakdown of employees in the company ?
+
 2. What is the race/ethnicity breakbown of employees in the company ?
 3. What is the age distribution of employees in the company ?
 4. How many employees work at headquarters versus remote locations ?
